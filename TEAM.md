@@ -3,7 +3,7 @@
 
 ## These are the team members for this project
 
-# Anne Chinn
+# [Anne Chinn](anne.md)
 
 # Jason Chinn
 
@@ -13,5 +13,3 @@
 
 # Team Members
 
-### Links to Team Member Page
-* [Anne](anne.md)
