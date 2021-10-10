@@ -10,7 +10,9 @@ html {
     --science-color: #3bd142;
     --food-color: #d1483b;
   }
-
+body{
+  color:green;
+}
   
   
   
