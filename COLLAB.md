@@ -22,6 +22,14 @@ References for GitHub's markdown flavor:
 
 ## Step 3 - Setup GitKraken Boards
 * install VS Code GitKraken Boards extension
-* sync with hoc-course-instances/js-newsite-team-1
+* click on GK Boards on the bottom
+* sign in with GitHub
+* click on user icon on top right
+* click on integrations
+* connect to GitHub - authorize account
+* click on Boards icon along the top to bring up boards panel
+* create a synced board
+  * hoc-course-instances/js-newsite-team-1
+* join synced board
 
 
